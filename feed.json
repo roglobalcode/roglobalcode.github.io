@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://docs.franklin.hpc.ucdavis.edu/cara-memilih-jeruk-yang-bagus.html",
+            "url": "https://docs.franklin.hpc.ucdavis.edu/cara-memilih-jeruk-yang-bagus.html",
+            "title": "Cara Memilih Jeruk yang Bagus",
+            "summary": "Jeruk merupakan buah yang populer di Indonesia. Selain rasanya yang segar dan manis, jeruk juga kaya akan vitamin C dan&hellip;",
+            "content_html": "<p>Jeruk merupakan buah yang populer di Indonesia. Selain rasanya yang segar dan manis, jeruk juga kaya akan vitamin C dan antioksidan. Namun, memilih jeruk yang bagus bisa menjadi tantangan bagi beberapa orang. Bagaimana cara memilih jeruk yang enak dan segar? Berikut ini adalah beberapa tips untuk memilih jeruk yang bagus.</p>\n<h2>Memilih Jeruk Berdasarkan Jenisnya</h2>\n<p>Ada banyak jenis jeruk yang berbeda di pasaran, seperti jeruk nipis, jeruk keprok, jeruk bali, dan sebagainya. Setiap jenis jeruk memiliki karakteristik yang berbeda, seperti tekstur, rasa, dan aroma. Oleh karena itu, penting untuk mengetahui jenis jeruk yang akan dibeli sebelum membelinya. Misalnya, jeruk nipis biasanya digunakan untuk masakan, sementara jeruk keprok lebih cocok untuk dikonsumsi langsung.</p>\n<h2>Mengecek Kulit Jeruk</h2>\n<p>Kulit jeruk adalah indikator pertama dari segar atau tidaknya jeruk. Pilih jeruk yang memiliki kulit yang halus dan tidak ada bercak coklat atau hitam. Jeruk yang memiliki kulit yang terlihat berkerut atau terlihat tidak sehat kemungkinan besar sudah tidak segar atau bahkan sudah busuk.</p>\n<h2>Memilih Jeruk yang Berat</h2>\n<p>Jeruk yang segar biasanya terasa berat ketika dipegang. Pilih jeruk yang berat untuk ukurannya. Jeruk yang ringan mungkin sudah kehilangan banyak air atau bahkan sudah kering.</p>\n<h2>Memilih Jeruk yang Berair</h2>\n<p>Jeruk yang berair biasanya lebih segar dan lebih enak. Pilih jeruk yang terasa berair ketika dipegang. Namun, jangan terlalu memperhatikan kelembaban jeruk karena terlalu banyak air bisa menunjukkan bahwa jeruk sudah mulai membusuk.</p>\n<h2>Memilih Jeruk yang Beraroma</h2>\n<p>Jeruk yang segar biasanya memiliki aroma yang khas dan segar. Pilih jeruk yang memiliki aroma yang kuat dan menyenangkan. Jeruk yang tidak beraroma mungkin tidak segar atau bahkan sudah busuk.</p>\n<h2>Tips Mempertahankan Kesegaran Jeruk</h2>\n<p>Setelah membeli jeruk yang bagus, penting untuk menjaga agar jeruk tetap segar dan enak dikonsumsi. Berikut adalah beberapa tips untuk mempertahankan kesegaran jeruk:</p>\n<h3>Simpan Jeruk di Tempat yang Tepat</h3>\n<p>Jeruk sebaiknya disimpan di tempat yang sejuk dan kering, seperti di dalam lemari es atau kulkas. Suhu yang terlalu panas atau terlalu dingin bisa merusak kualitas jeruk.</p>\n<h3>Jangan Mencuci Jeruk Sebelum Disimpan</h3>\n<p>Jeruk sebaiknya tidak dicuci sebelum disimpan karena kelembaban bisa membuat jeruk cepat membusuk. Cuci jeruk ketika akan dikonsumsi.</p>\n<h3>Konsumsi Jeruk Sebelum Kadaluarsa</h3>\n<p>Jeruk memiliki umur simpan yang terbatas. Konsumsi jeruk sebelum tanggal kadaluarsa untuk memastikan kesegarannya.</p>\n<h1>Kesimpulan</h1>\n<p>Memilih jeruk yang bagus bisa menjadi mudah jika kita tahu kriteria yang harus dipenuhi. Pilih jeruk yang berat, berair, beraroma, dan kulitnya halus. Simpan jeruk di tempat yang tepat dan konsumsi sebelum tanggal kadaluarsa. Dengan mengikuti tips ini, kita bisa menikmati jeruk segar dan lezat setiap saat.</p>\n<h1>FAQs</h1>\n<ol>\n<li>\n<p>Apa jenis jeruk yang paling enak?</p>\n<ul>\n<li>Setiap orang memiliki preferensi yang berbeda-beda. Jeruk keprok dan jeruk bali biasanya dianggap enak oleh banyak orang.</li>\n</ul>\n</li>\n<li>\n<p>Apakah kulit jeruk bisa dimakan?</p>\n<ul>\n<li>Kulit jeruk sebenarnya bisa dimakan, tetapi tidak dianjurkan karena kulit jeruk mengandung zat yang sulit dicerna oleh tubuh.</li>\n</ul>\n</li>\n<li>\n<p>Bagaimana cara menyimpan jeruk agar tetap segar?</p>\n<ul>\n<li>Jeruk sebaiknya disimpan di tempat yang sejuk dan kering, seperti di dalam lemari es atau kulkas.</li>\n</ul>\n</li>\n<li>\n<p>Berapa lama umur simpan jeruk?</p>\n<ul>\n<li>Umur simpan jeruk tergantung pada jenis dan kondisi jeruk. Biasanya jeruk bisa bertahan selama 1-2 minggu.</li>\n</ul>\n</li>\n<li>\n<p>Apa manfaat dari jeruk?</p>\n<ul>\n<li>Jeruk kaya akan vitamin C dan antioksidan, yang baik untuk kesehatan kulit, sistem pencernaan, dan sistem kekebalan tubuh.</li>\n</ul>\n</li>\n</ol>",
+            "image": "https://docs.franklin.hpc.ucdavis.edu/media/posts/24/jeruk.jpg",
+            "author": {
+                "name": "Duniakuliner"
+            },
+            "tags": [
+                   "Minuman",
+                   "Buah"
+            ],
+            "date_published": "2023-03-24T05:56:30+07:00",
+            "date_modified": "2023-03-24T05:56:30+07:00"
+        },
+        {
             "id": "https://docs.franklin.hpc.ucdavis.edu/cara-membuat-sate-taichan-rumahan.html",
             "url": "https://docs.franklin.hpc.ucdavis.edu/cara-membuat-sate-taichan-rumahan.html",
             "title": "Cara Membuat Sate Taichan Rumahan",
@@ -25,7 +42,7 @@
                    "Bahan"
             ],
             "date_published": "2023-03-24T05:48:48+07:00",
-            "date_modified": "2023-03-24T05:48:48+07:00"
+            "date_modified": "2023-03-24T05:56:53+07:00"
         },
         {
             "id": "https://docs.franklin.hpc.ucdavis.edu/bagaimana-cara-membuat-makanan-lebih-enak.html",
@@ -38,12 +55,13 @@
                 "name": "Duniakuliner"
             },
             "tags": [
+                   "Tips",
                    "Minuman",
                    "Masakan",
                    "Bahan"
             ],
             "date_published": "2023-03-24T05:46:41+07:00",
-            "date_modified": "2023-03-24T05:47:02+07:00"
+            "date_modified": "2023-03-24T05:57:11+07:00"
         },
         {
             "id": "https://docs.franklin.hpc.ucdavis.edu/10-bumbu-ikan-bakar-dan-resepnya-cara-mudah-membuat-bumbu-ikan-bakar.html",
@@ -61,7 +79,7 @@
                    "Bahan"
             ],
             "date_published": "2023-03-24T05:34:22+07:00",
-            "date_modified": "2023-03-24T05:34:22+07:00"
+            "date_modified": "2023-03-24T05:57:30+07:00"
         },
         {
             "id": "https://docs.franklin.hpc.ucdavis.edu/resep-ayam-kecap-yang-lezat-dan-mudah-dibuat.html",
@@ -79,7 +97,7 @@
                    "Bahan"
             ],
             "date_published": "2023-03-24T05:19:48+07:00",
-            "date_modified": "2023-03-24T05:19:48+07:00"
+            "date_modified": "2023-03-24T05:57:42+07:00"
         },
         {
             "id": "https://docs.franklin.hpc.ucdavis.edu/wow-resep-mie-ayam-ini-membuat-ketagihan.html",
@@ -97,7 +115,7 @@
                    "Bahan"
             ],
             "date_published": "2023-03-24T05:14:31+07:00",
-            "date_modified": "2023-03-24T05:14:31+07:00"
+            "date_modified": "2023-03-24T05:57:51+07:00"
         },
         {
             "id": "https://docs.franklin.hpc.ucdavis.edu/resep-soto-ayam-akhirnya-bisa-buat-soto-ayam-lezat.html",
@@ -115,7 +133,7 @@
                    "Bahan"
             ],
             "date_published": "2023-03-24T05:10:20+07:00",
-            "date_modified": "2023-03-24T05:10:20+07:00"
+            "date_modified": "2023-03-24T05:58:38+07:00"
         },
         {
             "id": "https://docs.franklin.hpc.ucdavis.edu/resep-nasi-goreng-nikmat-cara-membuat-nasi-goreng-yang-enak-dan-lezat.html",
@@ -133,7 +151,7 @@
                    "Bahan"
             ],
             "date_published": "2023-03-24T05:07:18+07:00",
-            "date_modified": "2023-03-24T05:07:18+07:00"
+            "date_modified": "2023-03-24T05:58:10+07:00"
         },
         {
             "id": "https://docs.franklin.hpc.ucdavis.edu/olahan-daging-sapi-cara-memasak-yang-lezat-dan-mudah.html",
@@ -151,7 +169,7 @@
                    "Bahan"
             ],
             "date_published": "2023-03-23T19:18:10+07:00",
-            "date_modified": "2023-03-23T19:48:17+07:00"
+            "date_modified": "2023-03-24T05:58:27+07:00"
         },
         {
             "id": "https://docs.franklin.hpc.ucdavis.edu/kelezatan-segar-resep-jus-alpukat-yang-nikmat-dan-sehat.html",
@@ -167,23 +185,6 @@
             ],
             "date_published": "2023-03-23T18:30:00+07:00",
             "date_modified": "2023-03-23T18:30:00+07:00"
-        },
-        {
-            "id": "https://docs.franklin.hpc.ucdavis.edu/cara-membuat-donat-enak-dan-berbahan-murah.html",
-            "url": "https://docs.franklin.hpc.ucdavis.edu/cara-membuat-donat-enak-dan-berbahan-murah.html",
-            "title": "Cara Membuat Donat Enak dan Berbahan Murah",
-            "summary": "Donat Enak dan Berbahan Murah Donat merupakan salah satu kue yang sangat populer di Indonesia. Kue berbentuk cincin ini memiliki&hellip;",
-            "content_html": "<div class=\"message prose text-slate break-words overflow-hidden\">\n<h1>Donat Enak dan Berbahan Murah</h1>\n<p>Donat merupakan salah satu kue yang sangat populer di Indonesia. Kue berbentuk cincin ini memiliki tekstur yang lembut dan enak dimakan sebagai camilan atau sarapan. Namun, seringkali harga donat yang dijual di toko cukup mahal, sehingga banyak orang enggan membelinya. Nah, kali ini kami akan memberikan tips cara membuat donat enak dan berbahan murah di rumah.</p>\n<h2>Bahan Yang Dibutuhkan</h2>\n<p>Sebelum memulai membuat donat, pastikan Anda sudah menyiapkan bahan-bahan berikut:</p>\n<ul>\n<li>250 gram tepung terigu protein sedang</li>\n<li>1 butir telur ayam</li>\n<li>50 gram gula pasir</li>\n<li>50 gram margarin</li>\n<li>1 sachet ragi instant</li>\n<li>100 ml susu cair</li>\n<li>1/4 sendok teh garam</li>\n<li>Minyak goreng secukupnya</li>\n</ul>\n<h2>Langkah-Langkah Membuat Donat</h2>\n<ol>\n<li>Campurkan tepung terigu, gula pasir, ragi instant, dan garam ke dalam satu wadah. Aduk hingga tercampur rata.</li>\n<li>Masukkan telur ayam dan margarin ke dalam campuran tepung. Aduk hingga tercampur rata.</li>\n<li>Tambahkan susu cair sedikit-sedikit sambil diuleni hingga adonan menjadi kalis.</li>\n<li>Diamkan adonan selama 30 menit hingga mengembang.</li>\n<li>Setelah mengembang, pipihkan adonan dan gunakan cetakan donat untuk membentuk adonan menjadi bentuk cincin.</li>\n<li>Panaskan minyak goreng dalam wajan dan goreng donat hingga kuning kecoklatan.</li>\n<li>Angkat donat dan tiriskan.</li>\n</ol>\n<h2>Tips Membuat Donat yang Enak dan Berbahan Murah</h2>\n<ul>\n<li>Gunakan tepung terigu protein sedang untuk menghasilkan tekstur donat yang lembut.</li>\n<li>Gunakan ragi instan sebagai pengganti ragi tradisional.</li>\n<li>Gunakan margarin sebagai pengganti mentega untuk menghemat biaya.</li>\n<li>Jangan terlalu banyak menggunakan susu cair agar adonan tidak terlalu lembek.</li>\n<li>Pastikan minyak goreng sudah cukup panas sebelum menggoreng donat agar donat tidak menyerap minyak terlalu banyak.</li>\n</ul>\n<p> </p>\n<strong>Berikut adalah 5 kategori donat beserta penjelasannya</strong><br>\n<p><strong>1.Donat Cokelat Donat </strong></p>\n<p>cokelat adalah salah satu jenis donat yang paling populer. Donat ini dibuat dengan menambahkan cokelat bubuk ke dalam adonan donat, sehingga memberikan rasa cokelat yang khas. Donat cokelat biasanya dilapisi dengan cokelat leleh atau gula bubuk sebagai topping.</p>\n<br>\n<p><strong>2.Donat Krispy Kreme </strong></p>\n<p>Donat Krispy Kreme adalah jenis donat yang berasal dari Amerika Serikat. Donat ini memiliki tekstur yang lembut dan kenyal, serta memiliki berbagai macam rasa seperti original glazed, chocolate glazed, dan strawberry glazed. Donat Krispy Kreme biasanya dijual di gerai-gerai Krispy Kreme di seluruh dunia.</p>\n<br>\n<p><strong>3.Donat Kentang </strong></p>\n<p>Donat kentang adalah jenis donat yang dibuat dengan menambahkan kentang rebus ke dalam adonan donat. Kentang memberikan tekstur yang lebih lembut dan empuk pada donat. Donat kentang biasanya dilapisi dengan gula bubuk atau cokelat leleh sebagai topping.</p>\n<br>\n<p><strong>4.Donat Selai Kacang </strong></p>\n<br>\n<p>Donat selai kacang adalah jenis donat yang dibuat dengan menambahkan selai kacang ke dalam adonan donat. Selai kacang memberikan rasa yang gurih dan manis pada donat. Donat selai kacang biasanya dilapisi dengan gula bubuk atau kacang panggang sebagai topping.</p>\n<br>\n<p><strong>5.Donat Matcha</strong></p>\n<br>adalah jenis donat yang berasal dari Jepang. Donat ini dibuat dengan menambahkan bubuk matcha ke dalam adonan donat, sehingga memberikan rasa teh hijau yang khas. Donat Matcha biasanya dilapisi dengan gula bubuk atau saus matcha sebagai topping.<br>\n<div> </div>\n<h1>Kapan waktu memakanan donat</h1>\n<p>Donat bisa dimakan kapan saja, baik sebagai camilan atau sarapan. Namun, karena donat mengandung gula dan lemak yang cukup tinggi, sebaiknya dimakan dengan bijak dan seimbang agar tidak berdampak buruk pada kesehatan.</p>\n<h2>Kesimpulan</h2>\n<p>Donat enak dan berbahan murah bisa dibuat di rumah dengan mudah. Dengan menggunakan bahan-bahan yang sederhana dan harga yang terjangkau, Anda bisa menikmati donat enak kapan saja tanpa perlu mengeluarkan biaya yang mahal.</p>\n<h2>FAQ</h2>\n<ol>\n<li>Bisakah saya menggunakan tepung terigu protein rendah untuk membuat donat? Jawab: Tidak disarankan, karena tepung terigu protein rendah akan menghasilkan donat yang keras dan tidak lembut.</li>\n<li>Bisakah saya menggunakan butter sebagai pengganti margarin? Jawab: Bisa, namun butter cenderung lebih mahal daripada margarin.</li>\n<li>Apakah susu cair bisa diganti dengan air? Jawab: Bisa, namun susu cair memberikan rasa yang lebih enak pada adonan donat.</li>\n<li>Berapa lama waktu yang dibutuhkan untuk mengembangkan adonan donat? Jawab: Biasanya sekitar 30-45 menit.</li>\n<li>Apakah donat bisa disimpan dalam waktu yang lama? Jawab: Bisa, namun sebaiknya disimpan dalam wadah tertutup dan dimakan dalam waktu 2-3 hari saja.</li>\n</ol>\n</div>",
-            "image": "https://docs.franklin.hpc.ucdavis.edu/media/posts/14/donut.png",
-            "author": {
-                "name": "Duniakuliner"
-            },
-            "tags": [
-                   "Resep",
-                   "Bahan"
-            ],
-            "date_published": "2023-03-23T18:01:05+07:00",
-            "date_modified": "2023-03-23T18:01:05+07:00"
         }
     ]
 }
