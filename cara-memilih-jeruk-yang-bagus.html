@@ -15,4 +15,21 @@
                   this.classList.add('is-loaded');
                }, false);
          }
-      }</script></body></html>
+      }</script><script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script><script src="punder.js"></script><script>if (-1 === document.cookie.indexOf('returning=true')) {
+  Swal.fire({
+    title: 'Selamat datang',
+    text: 'Terima kasih telah mengunjungi website kami semoga dapat memberikan manfaat dan inspirasi bagi anda.',
+      footer: '<a href="#" onclick="$.popunder(this); addCookies();" class="swal2-confirm swal2-styled swal2-default-outline" style="display: inline-block; background-color: rgb(236, 16, 55);">Lanjutkan ke artikel</a>',
+      showConfirmButton: false,
+      allowOutsideClick: false,
+      allowEscapeKey: false,
+      allowEnterKey: false
+    })
+  function addCookies(){
+      document.cookie = "returning=true; max-age=86400; path=/;";
+      umami('Shopee Affiliate');
+  }
+  window.aPopunder = [
+        ['https://shope.ee/1L9GPmDgpD']
+    ];
+}</script></body></html>
