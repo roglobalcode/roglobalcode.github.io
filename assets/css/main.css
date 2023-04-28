@@ -1816,10 +1816,10 @@ textarea {
   font-size: 0.7901234568rem;
   font-weight: var(--font-weight-bold);
 }
-.post__comments a {
+.post__comments > a {
   display: block;
 }
-.post__comments a svg {
+.post__comments > a svg {
   fill: currentColor;
   height: 16px;
   margin-right: 0.2rem;
@@ -2055,7 +2055,7 @@ textarea {
   margin-top: calc(2rem + 1vw);
   padding: 2.25rem;
 }
-.author__avatar {
+.bio__avatar {
   border-radius: var(--border-radius);
   -ms-flex-negative: 0;
       flex-shrink: 0;
@@ -2063,11 +2063,14 @@ textarea {
   margin-right: 1.75rem;
   width: 5rem;
 }
-.author__name {
+.bio__name {
   margin: 0;
 }
-.author__desc {
+.bio__desc {
   margin-top: 0.75rem;
+}
+.bio__desc > :nth-child(1) {
+  margin-top: 0;
 }
 
 .post__related {
@@ -2439,3 +2442,24 @@ textarea {
 .pswp--light .pswp__caption__center {
   color: var(--dark);
 }
+/* Breadcrumb */
+.breadcrumbs {
+  display: flex;
+  justify-content: flex-start;
+  list-style: none;
+  margin: 0 auto;
+  width: fit-content;
+  font-size: 0.7901234568rem;
+}
+
+.breadcrumbs li {
+  padding-right: 0.5rem;
+}
+
+.breadcrumbs li:nth-child(1) {
+  padding-left: 0;
+}
+/* /Breadcrumb */
+/* Readmore */
+.read-more{max-height:120px;position:relative;overflow:hidden}.read-more .prompt{position:absolute;bottom:0;left:0;width:100%;text-align:center;margin:0;padding-top:60px;padding-bottom:9px;background-image:linear-gradient(to bottom,rgba(255,255,255,0),white)}.read-more .prompt .button{border-radius:99px;}.read-more.big-preview{max-height:240px}.read-more.big-preview .prompt{padding-top:140px}
+/* /Readmore */
